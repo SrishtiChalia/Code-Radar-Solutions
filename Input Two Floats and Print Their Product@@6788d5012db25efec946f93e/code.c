@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main() {
-    float f1,f2,product;
+    float f1,f2,Product;
     scanf("%f %f",&f1,&f2);
-    product= f1*f2;
-    printf("Product: %f",product);
+    Product= f1*f2;
+    printf("Product: %f",Product);
     return 0;
 }
