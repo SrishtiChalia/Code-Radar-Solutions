@@ -1,8 +1,6 @@
 #include <stdio.h>
-
 int main()
-{
-    
+{ 
   int l;
   int b;
   sum=l+b;
@@ -11,7 +9,5 @@ int main()
   printf("Enter b:\n");
   scanf("%d", &b);
   printf("Sum:\n",sum);
- 
-  
     return 0;
 }
