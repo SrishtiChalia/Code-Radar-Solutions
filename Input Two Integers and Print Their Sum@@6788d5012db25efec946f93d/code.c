@@ -1,9 +1,6 @@
 #include <stdio.h>
 int main()
 { 
-  int l;
-  int b;
-  sum=l+b;
   printf("Enter l:\n");
   scanf("%d", &l);
   printf("Enter b:\n");
